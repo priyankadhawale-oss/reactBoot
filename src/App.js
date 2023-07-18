@@ -5,6 +5,7 @@ import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
 function App() {
   return (
     <div classNameName="App">
+      <h1> welcome to React </h1>
      <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar scroll</a>
